@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-First GitHub repository
+This is my first commit.
+I wrote some text.
